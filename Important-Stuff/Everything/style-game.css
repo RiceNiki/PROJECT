@@ -1,0 +1,13 @@
+p {
+font-family: Arial;
+}
+
+body {
+background-color: #FF7370;
+}
+
+canvas {
+width: 1px;
+height: 900px;
+border: solid 3px #E61812;
+}
